@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mulhamakhras
 - 👀 I’m interested in coding, AI, software development, data science, process automation, finance, stocks, investments, blockchain technology, smart contracts and much more 
 - 🌱 I’m currently learning how to build software applications and how to effectively use Github
-- 💞️ I’m looking to collaborate on anything but to be honest but I think it will be a while before I get a hang on things around here
+- 💞️ I’m looking to collaborate on anything but to be honest I think it will be a while before I get a hang on things around here
